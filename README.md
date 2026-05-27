@@ -104,14 +104,6 @@ The trained models can be used to:
 
 This project is provided as-is for educational and analytical purposes.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests to improve the project.
-
-## Contact
-
-For questions or collaboration opportunities, please open an issue on the repository.
-
 ---
 
 **Last Updated**: 2026-05-27
